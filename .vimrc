@@ -7,7 +7,7 @@
 set background=dark
 set nocompatible
 filetype on
-set rtp+=~/.vim/bundle/vundle/
+set rtp+=~/.vim/bundle/Vundle.vim
 " Vundle
 call vundle#begin()
 Plugin 'VundleVim/vundle.vim'
