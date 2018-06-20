@@ -1,3 +1,3 @@
 # dotfiles
-`cd ~/.vim/bundle/YouCompleteMe
-./install.py --all`
+`cd ~/.vim/bundle/YouCompleteMe`
+`./install.py --all`
