@@ -11,7 +11,6 @@ set rtp+=~/.vim/bundle/Vundle.vim
 " Vundle
 call vundle#begin()
 Plugin 'VundleVim/vundle.vim'
-Plugin 'bundle/vim-colors-solarized'
 Plugin 'tpope/vim-fugitive'
 Plugin 'w0ng/vim-hybrid'
 Plugin 'airblade/vim-gitgutter'
